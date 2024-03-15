@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "jest": "26.0.0",
+    "@types/jest": "26.0.0",
+    "@babel/core": "^7.24.0",
+    "@babel/cli": "^7.23.9",
+    "@babel/plugin-transform-typescript": "^7.23.6",
+    "@babel/plugin-transform-runtime": "^7.24.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.2",
+    "object-grep": "^2.2.0",
+    "colors": "^1.4.0"
+  }
+}
